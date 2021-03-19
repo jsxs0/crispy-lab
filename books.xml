@@ -1,0 +1,29 @@
+<?xml version ="1.0">
+<?xml-stylesheet type="text/xsl" href="C:\Users\H-GST-CSE-L 403-PC26\Documents\221810302026 WT\books.xml"?>
+<!DOCTYPE book-info SYSTEM  "books.dtd">
+<book-info>
+    <books>
+        <Title-of-the-book>HTML & CSS: Design and Build Web Sites</Title-of-the-book>
+        <Author-name>Jon Duckett</Author-name>
+        <ISBN-number>9781118008188</ISBN-number>
+        <Publications>25 October 2011</Publications>
+        <Edition>1st</Edition>
+        <Price>$X</Price>
+    </books>
+    <books>
+        <Title-of-the-book>Natural Language Processing with Python</Title-of-the-book>
+        <Author-name>Edward Loper, Ewan Klein, and Steven Bird</Author-name>
+        <ISBN-number>XXXXXXX</ISBN-number>
+        <Publications>June 2009</Publications>
+        <Edition>1st</Edition>
+        <Price>$X</Price>
+    </books>
+    <books>
+        <Title-of-the-book>Speech and Language Processing</Title-of-the-book>
+        <Author-name>Daniel Jurafsky and James H. Martin</Author-name>
+        <ISBN-number>XXXXXXX</ISBN-number>
+        <Publications>2000</Publications>
+        <Edition>1st</Edition>
+        <Price>$X</Price>
+    </books>
+</book-info>
